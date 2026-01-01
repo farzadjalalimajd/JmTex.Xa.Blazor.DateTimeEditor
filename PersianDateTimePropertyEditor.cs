@@ -2,9 +2,9 @@
 using DevExpress.ExpressApp.Blazor.Editors;
 using DevExpress.ExpressApp.Blazor.Editors.Adapters;
 using DevExpress.ExpressApp.Model;
-using AvTex.ExpressApp.Blazor.Editors.Adapters;
+using GemTex.ExpressApp.Blazor.Editors.Adapters;
 
-namespace AvTex.ExpressApp.Blazor.Editors;
+namespace GemTex.ExpressApp.Blazor.Editors;
 
 public class PersianDateTimePropertyEditor : BlazorPropertyEditorBase
 {

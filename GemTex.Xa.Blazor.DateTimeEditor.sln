@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36203.30
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvTex.XA.Blazor.DateTimeEditor", "AvTex.XA.Blazor.DateTimeEditor.csproj", "{EEB43BCB-1CE3-4C87-A443-DABFB7C28BCB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GemTex.Xa.Blazor.DateTimeEditor", "GemTex.Xa.Blazor.DateTimeEditor.csproj", "{EEB43BCB-1CE3-4C87-A443-DABFB7C28BCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
